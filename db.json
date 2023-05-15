@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullName": "Deepak",
+      "mobile": 12345678,
+      "email": "test@test.com",
+      "password": "132435",
+      "id": 1
+    },
+    {
+      "fullName": "Deepak",
+      "mobile": 121211,
+      "email": "asd@gmail.com",
+      "password": "12212",
+      "id": 2
+    },
+    {
+      "fullName": "Deepak",
+      "mobile": 12345678,
+      "email": "test@test.com",
+      "password": "132435",
+      "id": 3
+    },
+    {
+      "fullName": "Deepak",
+      "mobile": 987654321,
+      "email": "te@te.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "fullName": "asdf",
+      "mobile": 1234567890,
+      "email": "asdfasfdsa",
+      "password": "asfdnlasnfdlasfl",
+      "id": 5
+    },
+    {
+      "fullName": "Deepak",
+      "mobile": 1234567890,
+      "email": "deae@t.com",
+      "password": "1234",
+      "id": 6
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
